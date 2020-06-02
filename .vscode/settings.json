@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/scullin/miniconda3/envs/mir/bin/python",
+    "python.dataScience.jupyterServerURI": "local"
+}
